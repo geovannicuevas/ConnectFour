@@ -1,14 +1,7 @@
-/*
-Class: CSE 1321L
-Section: JO1
-Instructor: Gopi Matcha
-Term: Fall'22
-Name: Geovanni Cuevas
-Assignment: 6
- */
+
 import java.util.Scanner;
 
-public class Assignment6C {
+public ConnectFour {
     static final char[] player = {'X', 'O'};
     static final char empty = ' ';
     static final int rows= 4;
